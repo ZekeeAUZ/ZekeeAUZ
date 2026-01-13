@@ -24,3 +24,12 @@ I'm building tools to ease workflow in cybersecurity, penertration testings and 
 [![.NET](https://img.shields.io/badge/.NET-6C2DC7)](#)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF)](#)
 [![JSON](https://img.shields.io/badge/JSON-F69C00)](#)
+
+### 🧠 Interests
+
+[![Business Development](https://img.shields.io/badge/Business%20Development-0077B5)](#)
+[![Cyber Security](https://img.shields.io/badge/Cyber%20Security-121212)](#)
+[![Automation](https://img.shields.io/badge/Automation-E63946)](#)
+[![AI](https://img.shields.io/badge/AI-14A76C)](#)
+[![Graphic Design](https://img.shields.io/badge/Graphic%20Design-673AB7)](#)
+
