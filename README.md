@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jake</h1>
+<h1 align="center">
+  
+
+Hi 👋, I'm Jake</h1>
 <h3 align="center">A passionate developer and cybersecurity beginner from Brisbane Australia</h3>
 
 - 🔭 I’m currently working on **3D modeling for custom brooms**
@@ -14,6 +17,15 @@
 - 📫 How to reach me **Jake.cybersec@outlook.com**
 
 - ⚡ Fun fact **Im a private pilot !**
+
+<a href="https://github.com/9dl"><img src="https://img.shields.io/badge/GitHub-9dl-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discordapp.com/users/1168906910683119739"><img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+</div>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
