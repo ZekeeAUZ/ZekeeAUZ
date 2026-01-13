@@ -33,3 +33,8 @@ I'm building tools to ease workflow in cybersecurity, penertration testings and 
 [![AI](https://img.shields.io/badge/AI-14A76C)](#)
 [![Graphic Design](https://img.shields.io/badge/Graphic%20Design-673AB7)](#)
 
+### 📲 Follow Me
+
+<a target="_blank" rel="noopener noreferrer" href="https://x.com/0w3n">
+  <img src="https://img.shields.io/badge/Twitter%20(X)-121212" alt="LinkedIn Badge"/>
+</a>
