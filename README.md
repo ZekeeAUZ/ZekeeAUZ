@@ -35,6 +35,6 @@ I'm building tools to ease workflow in cybersecurity, penertration testings and 
 
 ### 📲 Follow Me
 
-<a target="_blank" rel="noopener noreferrer" href="https://x.com/0w3n">
-  <img src="https://img.shields.io/badge/Twitter%20(X)-121212" alt="LinkedIn Badge"/>
+<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/jwc.4u/">
+  <img src="https://img.shields.io/badge/Instagram%20(X)-121212" alt="LinkedIn Badge"/>
 </a>
