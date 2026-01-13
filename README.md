@@ -1,5 +1,8 @@
-## 👋🏻 Hi There! I'm **Jake**
-**Cybersecurity developer** · **Reverse Engineering** · **Open-Source Builder**
+<h1 align="center">👋 Hey, I'm Jake</h1>
+
+<p align="center">
+🎯 Self-Taught Cybersecurity Specalist | 🤖 Automation Enthusiast | 🔍 Problem Solver
+</p>
 
 I'm building tools to ease workflow in **cybersecurity**, **penertration testings** and **more**.
 
