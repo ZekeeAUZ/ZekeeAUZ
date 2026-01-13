@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-I'm building tools to ease workflow in **cybersecurity**, **penertration testings** and **more**.
+I'm building tools to ease workflow in cybersecurity, penertration testings and more!
 </p>
